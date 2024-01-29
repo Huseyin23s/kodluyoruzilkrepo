@@ -1,8 +1,9 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz](https://kodluyoruz.org/) Java Eğitimi kapsamında açtığım ilk repo.Içerisnde bir adet read me dosyası bir adet de index.html dosyası barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Java Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet read me dosyası bir adet de index.html dosyası barındırıyor.
 
 ## Installation
-Öncelikler projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
+
 ```git clone https://github.com/Huseyin23s/kodluyoruzilkrepo.git```
 
 ## Usage
